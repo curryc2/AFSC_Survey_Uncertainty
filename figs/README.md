@@ -1,3 +1,3 @@
-#AFSC_Survey_Uncertainty/figs
+# AFSC_Survey_Uncertainty/figs
 
 ### Directory for project figures.
